@@ -1,0 +1,6 @@
+C:\Users\enzob\Desktop\TPFinalNivel2_EnzoBurgos\dominio\bin\Debug\dominio.dll
+C:\Users\enzob\Desktop\TPFinalNivel2_EnzoBurgos\dominio\bin\Debug\dominio.pdb
+C:\Users\enzob\Desktop\TPFinalNivel2_EnzoBurgos\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\enzob\Desktop\TPFinalNivel2_EnzoBurgos\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\enzob\Desktop\TPFinalNivel2_EnzoBurgos\dominio\obj\Debug\dominio.dll
+C:\Users\enzob\Desktop\TPFinalNivel2_EnzoBurgos\dominio\obj\Debug\dominio.pdb
